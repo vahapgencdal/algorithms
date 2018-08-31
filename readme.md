@@ -1,4 +1,4 @@
-##Algorithm Analysis
+## **Algorithm Analysis**
 * worst case:linear search n
 * best case :linear search 1
 
@@ -19,10 +19,10 @@ big-o is O(X^2)
 
 Constants and little variable is not important  
 you can show like x^3 but you will lose advantage of speed  
-##Line of notations  
+## **Line of notations**
 1 < log^n < n < nlog^n < n^2 <...< 2^n < n! < n^n
 
-##Complexity example
+## **Complexity example**
 
 example calc:  
 for (i...n-1)  
@@ -67,7 +67,7 @@ if problem time complexity is up everytime this problem has a exponential comple
  &nbsp;&nbsp;&nbsp;for (j...n-1)  
  this complexity n^2
 
-##recursive functions complexity 
+## **Recursive functions complexity**
 one recursive=one loop
 example
 mergesort(a,l,f)  T(n)
