@@ -1,0 +1,1 @@
+there are three threads in a process. The first thread prints 1 1 1 ..., the second one prints 2 2 2 ..., and the third one prints 3 3 3 ... endlessly. How do you schedule these three threads in order to print 1 2 3 1 2 3 ...?
